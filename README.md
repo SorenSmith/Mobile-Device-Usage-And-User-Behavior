@@ -1,12 +1,12 @@
-# 🦄 Maven Unicorn Challenge
+# 📱 Mobile Device Usage and User Behavior
 
 ## 📚 About Data
 
-Private companies with a valuation over $1 billion as of March 2022, including each company's current valuation, funding, country of origin, industry, select investors, and the years they were founded and became unicorns.
+This dataset offers a detailed analysis of mobile device usage patterns and user behavior classification. It includes 700 user data samples with metrics such as app usage time, screen-on time, battery consumption, and data usage. Each record is classified into one of five user behavior categories, ranging from light to extreme usage, enabling comprehensive analysis and modeling.
 
-This dataset contains a csv table with 1,074 records, one for each company.
+This dataset contains a csv table with 700 records, one for each user.
 
-#mavenunicornchallenge
+[Link](https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset)
 
 ## 💡 Highlights
 
