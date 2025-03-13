@@ -24,7 +24,7 @@ Conducted simple data wrangling and data cleaning:
 
 📍 Jupyter script: [Notebook](https://github.com/katiehuangx/Maven-Unicorn-Challenge/blob/main/Maven%20Unicorn%20Companies%20-%20Data%20Wrangling.ipynb)
 
-📍 Clean Data: [unicorn_companies_clean.csv](https://github.com/katiehuangx/Maven-Unicorn-Challenge/blob/main/unicorn_companies_clean.csv)
+📍 Clean Data: [Mobile Device Usage And User Behavior.csv](https://github.com/SorenSmith/Mobile-Device-Usage-And-User-Behavior/blob/main/user_behavior_dataset.csv)
 
 ## 📊 Visualization
 
