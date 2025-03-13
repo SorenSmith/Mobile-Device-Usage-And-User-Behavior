@@ -1,0 +1,36 @@
+-- Checking for Missing (NULL) Values -- 
+SELECT *
+FROM user_behavior_dataset ubd 
+WHERE "User ID" IS NULL
+OR "Device Model" IS NULL
+OR "Operating System" IS NULL
+OR "App Usage Time (min/day)" IS NULL
+OR "Screen On Time (hours/day)" IS NULL
+OR "Battery Drain (mAh/day)" IS NULL
+OR "Number of Apps Installed" IS NULL
+OR "Data Usage (MB/day)" IS NULL
+OR Age IS NULL
+OR Gender IS NULL
+OR "User Behavior Class" IS NULL; 
+-- This although long, went through every column in the 
+data set and showed that there where no columns missing any
+data -- 
+
+-- Now I am going to check and remove any duplicates -- 
+SELECT "User ID", COUNT(*)
+FROM user_behavior_dataset ubd 
+GROUP BY "User ID"
+HAVING COUNT(*) > 1;
+
+-- I used this baseline code to check for duplicates in each column
+however there where no duplicates so there was no need to delete any
+lines of code -- 
+
+-- Standardizing data by making everything begin with a uppercase -- 
+UPDATE user_behavior_dataset ubd 
+SET Columns = UPPER(Columns);
+
+-- This code did not work due to multiple colums being integers, however after
+looking throught the data table I saw everything began with Uppercase so there was
+no need for this update. Can be deleted for future refrence -- 
+
