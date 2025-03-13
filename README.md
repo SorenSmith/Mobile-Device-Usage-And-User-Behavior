@@ -32,4 +32,4 @@ Produced a 1-pager dashboard using Tableau.
 
 Tableau: [Link](https://public.tableau.com/app/profile/soren.smith/viz/MobileDeviceUsageandUserBehavior_17417366531850/Dashboard1)
 
-![Unicorns-2](https://user-images.githubusercontent.com/81607668/164443885-986bf154-9884-4312-b7cd-a1e128ee24b2.png)
+![Unicorns-2](https://github.com/SorenSmith/Mobile-Device-Usage-And-User-Behavior/blob/main/Dashboard%201%20(1).png)
