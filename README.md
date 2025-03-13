@@ -22,7 +22,7 @@ Conducted simple data wrangling and data cleaning:
 - Checked and removed any duplicates
 - Standardized data by making everything begin with an uppercase
 
-📍 Jupyter script: [Notebook](https://github.com/katiehuangx/Maven-Unicorn-Challenge/blob/main/Maven%20Unicorn%20Companies%20-%20Data%20Wrangling.ipynb)
+📍 Jupyter script: [Notebook](https://github.com/SorenSmith/Mobile-Device-Usage-And-User-Behavior/blob/main/Mobile%20Device%20Usafe%20and%20User%20Behavior%20CODE.txt)
 
 📍 Clean Data: [Mobile Device Usage And User Behavior.csv](https://github.com/SorenSmith/Mobile-Device-Usage-And-User-Behavior/blob/main/user_behavior_dataset.csv)
 
